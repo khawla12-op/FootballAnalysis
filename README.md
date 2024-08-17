@@ -41,4 +41,8 @@ Here you will find the following files: https://drive.google.com/drive/folders/1
 
 -**`best.pt`**: This is the trained model file. Place it in the `models` folder.\
 -**`testVideo.mp4`**: This is the test video output. Place it in the `output_videos` folder.
-
+### Running the model
+To run the model :
+```bash
+python main.py
+```
